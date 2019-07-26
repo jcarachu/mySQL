@@ -1,1 +1,2 @@
- *.* linguist-language=mysql
+* linguist-vendored 
+*.* linguist-language=mysql
