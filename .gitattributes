@@ -1,2 +1,2 @@
-# direct mysql
+# detect language mysql
 *.* linguist-language=sql
