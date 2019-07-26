@@ -1,2 +1,3 @@
 # detect language mysql
-*.* linguist-language=sql
+*.sql linguist-detectable=true
+*.sql linguist-language=mysql
