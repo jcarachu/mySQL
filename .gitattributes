@@ -1,2 +1,2 @@
-* linguist-vendored 
-*.* linguist-language=mysql
+# direct mysql
+*.* linguist-language=sql
